@@ -1,2 +1,1 @@
-# lab3
-Work with I2C.
+Лаб03 I2C та Arduino
